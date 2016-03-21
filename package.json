@@ -24,7 +24,7 @@
     "toposort": "^0.2.10",
     "web3": "^0.15.0",
     "bignumber.js": "debris/bignumber.js#master",
-    "wrench": "^1.5.8",
+    "wrench": "^1.5.8"
   },
   "author": "Iuri Matias <iuri.matias@gmail.com>",
   "contributors": ["Michael Feinstein <michaelf1977@yahoo.com>"],

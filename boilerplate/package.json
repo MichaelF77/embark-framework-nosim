@@ -10,8 +10,8 @@
   "license": "ISC",
   "homepage": "",
   "devDependencies": {
-    "embark-framework-sim": "^1.0.2",
-    "grunt-embark": "^0.5.1",
+    "embark-framework-nosim": "^1.0.2",
+    "grunt-embark-nosim": "^0.5.1",
     "grunt-contrib-clean": "^0.6.0",
     "grunt-contrib-coffee": "^0.13.0",
     "grunt-contrib-concat": "^0.5.1",
