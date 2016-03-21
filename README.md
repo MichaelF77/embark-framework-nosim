@@ -1,3 +1,4 @@
+THis is a version of Embark framework without simulator to reduce dependencies when the testing is performed on private chain.
 This Readme applies to Embark 1.0.0 Beta which is currently under development. For the old version please check the old [readme](https://github.com/iurimatias/embark-framework/blob/0.9.3/README.md)
 
 What is embark
@@ -16,7 +17,7 @@ With Embark you can:
 * Manage different chains (e.g testnet, private net, livenet)
 * Quickly create advanced DApps using multiple contracts.
 
-See the [Wiki](https://github.com/iurimatias/embark-framework/wiki) for more details.
+See the [Wiki](https://github.com/michaelf1977/embark-framework-sim/wiki) for more details.
 
 Installation
 ======
@@ -24,10 +25,10 @@ Requirements: geth (1.1.3 or higher), node (0.12.2) and npm
 Optional: serpent (develop) if using contracts with Serpent
 
 ```Bash
-$ npm -g install embark-framework
+$ npm -g install embark-framework-sim
 ```
 
-See [Complete Installation Instructions](https://github.com/iurimatias/embark-framework/wiki/Installation).
+See [Complete Installation Instructions](https://github.com/michaelf1977/embark-framework-sim/wiki/Installation).
 
 Usage - Demo
 ======
@@ -38,13 +39,7 @@ $ embark demo
 $ cd embark_demo
 ```
 
-To run a ethereum rpc simulator simply run:
-
-```Bash
-$ embark simulator
-```
-
-Or Alternatively, you can run a REAL ethereum node for development purposes:
+You can run a REAL ethereum node for development purposes:
 
 ```Bash
 $ embark blockchain

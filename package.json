@@ -1,5 +1,5 @@
 {
-  "name": "embark-framework",
+  "name": "embark-framework-sim",
   "version": "1.0.2",
   "description": "",
   "scripts": {
@@ -25,10 +25,9 @@
     "web3": "^0.15.0",
     "bignumber.js": "debris/bignumber.js#master",
     "wrench": "^1.5.8",
-    "ethersim": "^0.1.1"
   },
   "author": "Iuri Matias <iuri.matias@gmail.com>",
-  "contributors": [],
+  "contributors": ["Michael Feinstein <michaelf1977@yahoo.com>"],
   "license": "ISC",
   "devDependencies": {
     "grunt-mocha-test": "^0.12.7",

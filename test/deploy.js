@@ -5,7 +5,6 @@ var ChainManager = require('../lib/chain_manager.js');
 var assert = require('assert');
 var web3 = require('web3');
 
-// TODO: replace with ethersim
 var Web3 = require('web3');
 var web3 = new Web3();
 web3.setProvider(new web3.providers.HttpProvider("http://localhost:8101"));
