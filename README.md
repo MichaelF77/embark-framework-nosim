@@ -17,7 +17,7 @@ With Embark you can:
 * Manage different chains (e.g testnet, private net, livenet)
 * Quickly create advanced DApps using multiple contracts.
 
-See the [Wiki](https://github.com/michaelf1977/embark-framework-sim/wiki) for more details.
+See the [Wiki](https://github.com/michaelf1977/embark-framework-nosim/wiki) for more details.
 
 Installation
 ======
@@ -25,10 +25,10 @@ Requirements: geth (1.1.3 or higher), node (0.12.2) and npm
 Optional: serpent (develop) if using contracts with Serpent
 
 ```Bash
-$ npm -g install embark-framework-sim
+$ npm -g install embark-framework-nosim
 ```
 
-See [Complete Installation Instructions](https://github.com/michaelf1977/embark-framework-sim/wiki/Installation).
+See [Complete Installation Instructions](https://github.com/michaelf1977/embark-framework-nosim/wiki/Installation).
 
 Usage - Demo
 ======
